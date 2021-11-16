@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Terminal=false
+Type=Application
+Name=Insomnia
+Description=Prevents sleep mode
+Exec=sh -c 'com.github.manexim.insomnia'
+Icon=time
+Gettext-Domain=sh
